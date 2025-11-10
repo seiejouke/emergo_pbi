@@ -1,2 +1,8 @@
 Niet elke order heeft een CarrierTrackingNumber
 
+SalesOrderDetail heeft een kolom met UnitPriceDiscount, enkel de gehele kolom heeft 0 als waarde?
+
+Accessoiries verkoop begint pas "echt" in Juni/Augustus 2008. 
+Clothing verkoop begint in juni/juli.
+
+
