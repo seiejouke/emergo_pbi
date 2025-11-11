@@ -1,3 +1,5 @@
+descriptive observaties
+
 Niet elke order heeft een CarrierTrackingNumber
 
 SalesOrderDetail heeft een kolom met UnitPriceDiscount, enkel de gehele kolom heeft 0 als waarde?
@@ -5,4 +7,36 @@ SalesOrderDetail heeft een kolom met UnitPriceDiscount, enkel de gehele kolom he
 Accessoiries verkoop begint pas "echt" in Juni/Augustus 2008. 
 Clothing verkoop begint in juni/juli.
 
+are all years complete years
 
+----
+impactful questions using Q&A 
+
+Which months have the highest average revenue
+Which quarters have the highest average revenue
+
+What are the top products in Accessories    by              total revenue
+What are the top products in Bikes          by              total revenue
+What are the top products in Components     by              total revenue
+What are the top products in Accessories    by              total revenue
+
+How many product ID
+
+How many product ID for each product category ID
+
+1 - Bikes:          97
+2 - Components      134
+3 - Clothing        35
+4 - Accessories     29
+
+---
+
+Verkoopprestaties & Trends
+
+“Wat zijn de top 10 producten op basis van totale omzet in het afgelopen jaar?”
+
+“Welke producten hebben de hoogste omzetgroei ten opzichte van vorig jaar?”
+
+“Welke producten verliezen marktaandeel ten opzichte van vorig jaar?”
+
+“Wat is de totale omzet per jaar en hoe ontwikkelt die zich per productcategorie?”
