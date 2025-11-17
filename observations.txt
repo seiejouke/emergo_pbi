@@ -31,6 +31,8 @@ How many product ID for each product category ID
 
 ---
 
+Fiscaal jaar is verkapt naar jun-juli
+
 Verkoopprestaties & Trends
 
 “Wat zijn de top 10 producten op basis van totale omzet in het afgelopen jaar?”
@@ -40,3 +42,8 @@ Verkoopprestaties & Trends
 “Welke producten verliezen marktaandeel ten opzichte van vorig jaar?”
 
 “Wat is de totale omzet per jaar en hoe ontwikkelt die zich per productcategorie?”
+
+
+c:\Users\Jouke\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{A54F1DE3-310B-4905-979F-374E6C395B3B}.png
+
+mensen worden aagenomen in 2003 in hiredate maar sales beginnen pas midden 2006
