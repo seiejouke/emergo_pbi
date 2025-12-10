@@ -1,4 +1,4 @@
-![Dashboard Preview](data/img/Dashboard_V33.png)
+![Dashboard Preview](img/Dashboard_V33.png)
 
 
 Product Performance Dashboard
